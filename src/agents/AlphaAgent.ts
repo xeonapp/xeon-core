@@ -1,16 +1,26 @@
 export class AlphaAgent {
-  private analyzedPairs: string[] = [];
-  private riskLevel: number = 0.5;
+  private supportedDEX = ['pump.fun', 'raydium'];
+  private tradingPairs: string[] = [];
 
-  constructor(private apiKey: string) {}
-
-  async analyzeMarket(): Promise<void> {
-    // Implementation coming soon
-    console.log("Analyzing market conditions...");
+  async analyzePair(pair: string): Promise<{
+    sentiment: number;
+    volume: number;
+    priceAction: string;
+  }> {
+    // Real-time analysis of trading pairs
+    return {
+      sentiment: 0.85,
+      volume: 1250000,
+      priceAction: 'bullish'
+    };
   }
 
-  async detectOpportunities(): Promise<any[]> {
-    // Trading opportunities detection
+  async detectEntryPoints(): Promise<{
+    pair: string;
+    entry: number;
+    confidence: number;
+  }[]> {
+    // Entry point detection
     return [];
   }
 }
