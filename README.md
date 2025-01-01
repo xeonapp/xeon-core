@@ -1,31 +1,21 @@
-# XEON Core
-Advanced AI trading system core implementation.
+# XEON Trading Bot
+Advanced trading bot for Raydium/PumpFun powered by AI analysis.
 
 ## Features
-- Real-time market analysis with AI agents
-- ML-powered trading signals
-- Dynamic risk management
-- Sentiment analysis engine
+- Ultra-fast execution (<0.1s)
+- Smart entry/exit detection
+- Automatic position sizing
+- Real-time monitoring
+- Multiple trading pairs support
+- Raydium integration
 
-## Structure
-/src
-  /agents
-    - AlphaAgent.ts      # Market analysis & opportunity detection
-    - ShieldAgent.ts     # Risk management & position sizing
-    - OracleAgent.ts     # Sentiment analysis & prediction
-  /utils
-    - risk-calculator.ts
-    - market-analyzer.ts
-    - sentiment-engine.ts
+## Supported DEXs
+- pump.fun
+- Raydium
 
 ## Technology
+- Solana Web3
 - TypeScript
-- Machine Learning
-- WebSocket
-- Real-time Processing
+- WebSocket for real-time data
 
-## Status
-🚧 In Development
-
-## License
-Private software. All rights reserved.
+⚠️ Private version available for selected users only
