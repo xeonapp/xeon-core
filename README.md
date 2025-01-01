@@ -19,3 +19,30 @@ Advanced trading bot for Raydium/PumpFun powered by AI analysis.
 - WebSocket for real-time data
 
 ⚠️ Private version available for selected users only
+
+## AI Agents
+
+### Alpha Agent
+- Real-time market analysis
+- Entry/exit point detection
+- Volume analysis
+- Pattern recognition
+
+### Oracle Agent
+- Liquidity monitoring
+- Volume tracking
+- Market sentiment analysis
+
+### Risk Management
+- Dynamic position sizing
+- Automatic stop-loss
+- Risk per trade calculation
+
+## Configuration
+```json
+{
+  "dex": "pump.fun",
+  "maxSlippage": 0.5,
+  "riskPerTrade": 2,
+  "autoTrade": true
+}
