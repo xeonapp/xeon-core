@@ -1,5 +1,3 @@
-need help? ideas? https://x.com/XEON_APP
-
 
 ## 🛠 Core Architecture
 
@@ -183,4 +181,7 @@ bash
 cargo run --release
 
 Requirements: Rust, Node.js, and a low-latency Solana RPC node. For optimal performance, bring your own Jito relayer.
+
+need help? ideas? https://x.com/XEON_APP
+
 
