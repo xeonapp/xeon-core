@@ -1,6 +1,8 @@
 XEON PulseTrader
 A hyper-optimized, AI-driven mempool sniper for Solana DEXs. Built for degens who thrive on sub-100ms trades and chaotic market edges. This is not your grandma’s trading bot—it’s a beast for coders who eat MEV for breakfast.
- Alpha Access: DM for invite. Must prove >10 SOL in wallet and a degenerate X post history.
+
+
+
  Disclaimer: Black-box degen tool. If you don’t know Jito or mempool, this ain’t for you. Code hard, trade harder.
 
 Core Stack
