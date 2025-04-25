@@ -1,6 +1,5 @@
-# 🚀 Solana Trading Stack: High-Performance Architecture for Fullstack Devs
+need help? ideas? https://x.com/XEON_APP
 
-Welcome, fullstack architects! If you thrive on Rust's memory safety, TypeScript's type rigor, and the thrill of sub-millisecond latencies, this is your blueprint. This document outlines a cutting-edge Solana trading stack, fusing mempool scraping, AI-driven strategies, and real-time streaming into a modular, high-performance system. Crafted for devs who dream in clean code and scalable microservices, this Markdown is ready to shine in your GitHub repo.
 
 ## 🛠 Core Architecture
 
